@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "kc-vue3-spec",
+      "type": "spec",
+      "name": "Vue 3 spec",
+      "description": "Vue 3 spec 模板",
+      "path": "specs/vue3-template",
+      "tags": ["vue3", "typescript"]
+    }
+  ]
+}
