@@ -1,11 +1,11 @@
 ```markdown
-# Component Guidelines
+# 组件规范
 
 > Vue3 组件开发规范。
 
 ---
 
-## Overview
+## 概述
 
 <!--
 
@@ -23,10 +23,7 @@
 
 ---
 
-## Component Priority
-
-<!--
-
+## 组件使用优先级
 AI 在开发时应遵循以下组件使用优先级：
 
 1. 优先复用项目已有组件（如 `src/components`、`src/views/**/components`）。
@@ -40,11 +37,9 @@ AI 在开发时应遵循以下组件使用优先级：
 
 禁止重复开发已有组件。
 
--->
-
 ---
 
-## Component Structure
+## 组件结构
 
 <!--
 
@@ -62,7 +57,7 @@ AI 在开发时应遵循以下组件使用优先级：
 
 ---
 
-## Props Conventions
+## Props 规范
 
 <!--
 
@@ -80,7 +75,7 @@ AI 在开发时应遵循以下组件使用优先级：
 
 ---
 
-## Styling Patterns
+## 样式规范
 
 <!--
 
@@ -100,7 +95,7 @@ AI 在开发时应遵循以下组件使用优先级：
 ---
 
 
-## Common Mistakes
+## 常见问题
 
 <!--
 
