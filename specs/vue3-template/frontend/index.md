@@ -21,6 +21,7 @@
 | [coding-style](./coding-style.md)                   | 代码规范等 | 待完善 |
 | [api-guidelines](./api-guidelines.md)                   | api 调用等 | 待完善 |
 | [router-guidelines](./router-guidelines.md)                   | 路由 等 | 待完善 |
+| [utils-guidelines](./utils-guidelines.md)                   | 工具库utils 等 | 待完善 |
 
 ---
 
